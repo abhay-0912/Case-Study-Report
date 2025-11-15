@@ -1,4 +1,3 @@
-```markdown
 # Case Study Report — BreachForums Shutdown & Migration to Telegram Cybercrime Ecosystem
 
 A focused, research-driven case study examining the shutdown of BreachForums and the subsequent migration of cybercriminal activity to Telegram. This repository contains a comprehensive PDF report, supporting documentation, and a clear summary of findings and recommendations.
@@ -65,6 +64,5 @@ This repository is provided for academic use. Please contact the authors for reu
 ## Contact
 For questions or permission requests, contact:
 - Abhay Srivastava — (GitHub: @abhay-0912)
-- Vinayak Sharma — (GitHub: @vinayak-sharma)  
+- Vinayak Sharma — (GitHub: )  
 
-```
