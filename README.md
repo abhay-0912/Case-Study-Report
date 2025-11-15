@@ -1,86 +1,70 @@
-# Case-Study-Report
-Case study on the shutdown of BreachForums and the migration of cybercriminals to Telegram. Includes timeline, FBI seizure analysis, post-takedown activities, Telegram cybercrime patterns, impact on cybersecurity, and key findings. Full PDF report attached.
+```markdown
+# Case Study Report — BreachForums Shutdown & Migration to Telegram Cybercrime Ecosystem
 
-# Case Study Report: BreachForums Shutdown & Migration to Telegram Cybercrime Ecosystem
+A focused, research-driven case study examining the shutdown of BreachForums and the subsequent migration of cybercriminal activity to Telegram. This repository contains a comprehensive PDF report, supporting documentation, and a clear summary of findings and recommendations.
 
-This repository contains a detailed case study analysing the fall of BreachForums—one of the largest dark-web cybercrime marketplaces—and how its shutdown triggered a massive migration of cybercriminals to Telegram’s decentralised ecosystem.
+## Table of Contents
+- [Overview](#overview)
+- [Key Findings](#key-findings)
+- [Report Contents](#report-contents)
+- [How to Read the Report](#how-to-read-the-report)
+- [Authors & Submission](#authors--submission)
+- [Purpose & Scope](#purpose--scope)
+- [Repository Structure](#repository-structure)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+- [Contact](#contact)
 
-The study highlights the complete lifecycle of BreachForums, the FBI’s infiltration and seizure operation, and the evolution of cybercriminal behaviours on Telegram after the takedown.
+## Overview
+This case study analyses the lifecycle of BreachForums, law-enforcement actions leading to its takedown, and the displacement of threat actors onto Telegram. The report combines timeline reconstruction, technical analysis of platform migration, observed criminal patterns on Telegram, and implications for law enforcement and defenders.
 
-# About the Case Study
+## Key Findings
+- Centralised takedowns (e.g., BreachForums) disrupt operations but do not eliminate illicit activity.
+- Telegram provides an attractive mix of encryption, scalability, and automation that supports rapid criminal migration.
+- Threat actors rapidly adapt by decentralising tooling (bots, channel networks) and using layering techniques to preserve anonymity.
+- Effective long-term mitigation requires coordinated technical, legal, and policy responses, and improved OSINT/forensics capabilities on encrypted platforms.
 
-## This report explores:
+## Report Contents
+- CASE STUDY REPORT.pdf — Full 20+ page analysis (primary deliverable)
+- README.md — This document
+- Supporting materials (if any) — technical notes, logs, or scripts (refer to repository for additions)
 
-The rise and structure of BreachForums
+## How to Read the Report
+1. Open `CASE STUDY REPORT.pdf` for the full narrative, methodology, evidence, and conclusions.
+2. Refer to the "Appendices" for technical indicators and forensic notes.
+3. Use the "Recommendations" section for actionable guidance on detection and enforcement strategies.
 
-How cybercriminals operate on the dark web
+## Authors & Submission
+Submitted to:
+- Mr. Shantanu Sasmal — IBM SkillsBuild Faculty
 
-FBI’s multi-stage operation leading to the forum’s shutdown
+Prepared by:
+- Abhay Srivastava — 202210101180008  
+- Vinayak Sharma — 202210101180014  
+B.Tech, Computer Science & Engineering (Cybersecurity)
 
-Immediate global response by threat actors
+## Purpose & Scope
+This repository was created as an academic submission for IBM’s Cybersecurity program. The study demonstrates:
+- Case study research and analysis skills
+- Understanding of cybercrime ecosystems and migration dynamics
+- Technical documentation and reporting capabilities
 
-Why Telegram became the new cybercrime hub
+Topics covered include dark web marketplaces, law enforcement operations, Telegram-based criminal infrastructure, automated crime bots, ransomware communications, and OSINT/forensics challenges.
 
-Patterns of illegal activity emerging on Telegram
+## Repository Structure
+- CASE STUDY REPORT.pdf — Full written report
+- README.md — Project summary and guidance
+- (Optional) /data, /notes, /scripts — supporting artefacts if added
 
-Challenges faced by law enforcement after the migration
+## Acknowledgements
+We thank IBM SkillsBuild and the supervising faculty for guidance, and the public sources that informed this study.
 
-Key findings and long-term impact on global cybersecurity
+## License
+This repository is provided for academic use. Please contact the authors for reuse, redistribution, or publication requests.
 
-# Key Highlights
+## Contact
+For questions or permission requests, contact:
+- Abhay Srivastava — (GitHub: @abhay-0912)
+- Vinayak Sharma — (GitHub: @vinayak-sharma)  
 
-Step-by-step timeline of BreachForums’ creation, growth, and dismantling.
-
-In-depth migration analysis explaining why threat actors chose Telegram.
-
-Breakdown of cybercrime patterns (data leaks, malware distribution, ransomware, bot automation).
-
-Impact assessment on cybersecurity, law enforcement, and threat landscape.
-
-Real-world insights into decentralisation, anonymity, and automation of cybercrime ecosystems.
-
-Contents of Repository
-Case Study Report
-CASE STUDY REPORT.pdf  (Full 20+ page detailed report)
-README.md  (You are reading this)
-
-Submitted To
-
-Mr. Shantanu Sasmal
-IBM SkillsBuild Faculty
-
- Submitted By
-
-Abhay Srivastava – 202210101180008
-
-Vinayak Sharma – 202210101180014
-B.Tech CSE (Cybersecurity)
-
-Purpose
-
-This repository has been created as part of an academic submission for IBM’s Cybersecurity program.
-It demonstrates:
-
-Case study research ability
-
-Cybercrime ecosystem analysis
-
-Understanding of cyber threat migration
-
-Technical documentation and reporting skills
-
-Topics Covered
-
-Dark Web Ecosystems
-Cybercrime Marketplaces
-Law Enforcement Operations
-Telegram-based Criminal Infrastructure
-Automated Cybercrime Bots
-Ransomware Communications
-OSINT & Digital Forensics Challenges
-
-Conclusion
-This case study shows that shutting down centralised dark-web platforms does not stop cybercrime — it only forces criminals to relocate to more flexible, encrypted, and decentralised platforms like Telegram.
-Cybercrime evolves, adapts, and expands faster than the systems designed to stop it.
-This case study shows that shutting down centralised dark-web platforms does not stop cybercrime — it only forces criminals to relocate to more flexible, encrypted, and decentralised platforms like Telegram.
-Cybercrime evolves, adapts, and expands faster than the systems designed to stop it.
+```
