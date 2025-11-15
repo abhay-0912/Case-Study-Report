@@ -24,18 +24,15 @@ This case study analyses the lifecycle of BreachForums, law-enforcement actions 
 - Effective long-term mitigation requires coordinated technical, legal, and policy responses, and improved OSINT/forensics capabilities on encrypted platforms.
 
 ## Report Contents
-- CASE STUDY REPORT.pdf — Full 20+ page analysis (primary deliverable)
+- CASE STUDY REPORT.pdf — Full 20+ page analysis
 - README.md — This document
-- Supporting materials (if any) — technical notes, logs, or scripts (refer to repository for additions)
 
 ## How to Read the Report
-1. Open `CASE STUDY REPORT.pdf` for the full narrative, methodology, evidence, and conclusions.
-2. Refer to the "Appendices" for technical indicators and forensic notes.
-3. Use the "Recommendations" section for actionable guidance on detection and enforcement strategies.
+- Open `CASE STUDY REPORT.pdf` for the full narrative, methodology, evidence, and conclusions.
 
 ## Authors & Submission
 Submitted to:
-- Mr. Shantanu Sasmal — IBM SkillsBuild Faculty
+- Mr Shantanu Sasmal — IBM SkillsBuild Faculty
 
 Prepared by:
 - Abhay Srivastava — 202210101180008  
@@ -53,7 +50,6 @@ Topics covered include dark web marketplaces, law enforcement operations, Telegr
 ## Repository Structure
 - CASE STUDY REPORT.pdf — Full written report
 - README.md — Project summary and guidance
-- (Optional) /data, /notes, /scripts — supporting artefacts if added
 
 ## Acknowledgements
 We thank IBM SkillsBuild and the supervising faculty for guidance, and the public sources that informed this study.
