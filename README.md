@@ -1,19 +1,19 @@
 # Case-Study-Report
 Case study on the shutdown of BreachForums and the migration of cybercriminals to Telegram. Includes timeline, FBI seizure analysis, post-takedown activities, Telegram cybercrime patterns, impact on cybersecurity, and key findings. Full PDF report attached.
 
-Case Study Report: BreachForums Shutdown & Migration to Telegram Cybercrime Ecosystem
+# Case Study Report: BreachForums Shutdown & Migration to Telegram Cybercrime Ecosystem
 
-This repository contains a detailed case study analyzing the fall of BreachForums—one of the largest dark-web cybercrime marketplaces—and how its shutdown triggered a massive migration of cybercriminals to Telegram’s decentralized ecosystem.
+This repository contains a detailed case study analysing the fall of BreachForums—one of the largest dark-web cybercrime marketplaces—and how its shutdown triggered a massive migration of cybercriminals to Telegram’s decentralised ecosystem.
 
-The study highlights the complete lifecycle of BreachForums, FBI’s infiltration and seizure operation, and the evolution of cybercriminal behaviors on Telegram after the takedown.
+The study highlights the complete lifecycle of BreachForums, the FBI’s infiltration and seizure operation, and the evolution of cybercriminal behaviours on Telegram after the takedown.
 
-About the Case Study
+# About the Case Study
 
-This report explores:
+## This report explores:
 
 The rise and structure of BreachForums
 
-How cybercriminals operated on the dark web
+How cybercriminals operate on the dark web
 
 FBI’s multi-stage operation leading to the forum’s shutdown
 
@@ -27,7 +27,7 @@ Challenges faced by law enforcement after the migration
 
 Key findings and long-term impact on global cybersecurity
 
-Key Highlights
+# Key Highlights
 
 Step-by-step timeline of BreachForums’ creation, growth, and dismantling.
 
@@ -37,7 +37,7 @@ Breakdown of cybercrime patterns (data leaks, malware distribution, ransomware, 
 
 Impact assessment on cybersecurity, law enforcement, and threat landscape.
 
-Real-world insights into decentralization, anonymity, and automation of cybercrime ecosystems.
+Real-world insights into decentralisation, anonymity, and automation of cybercrime ecosystems.
 
 Contents of Repository
 Case Study Report
@@ -82,5 +82,5 @@ OSINT & Digital Forensics Challenges
 Conclusion
 This case study shows that shutting down centralised dark-web platforms does not stop cybercrime — it only forces criminals to relocate to more flexible, encrypted, and decentralised platforms like Telegram.
 Cybercrime evolves, adapts, and expands faster than the systems designed to stop it.
-This case study shows that shutting down centralised dark-web platforms does not stop cybercrime — it only forces criminals to relocate to more flexible, encrypted, and decentralized platforms like Telegram.
+This case study shows that shutting down centralised dark-web platforms does not stop cybercrime — it only forces criminals to relocate to more flexible, encrypted, and decentralised platforms like Telegram.
 Cybercrime evolves, adapts, and expands faster than the systems designed to stop it.
