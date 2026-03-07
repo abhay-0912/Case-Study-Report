@@ -60,5 +60,4 @@ This repository is provided for academic use. Please contact the authors for reu
 ## Contact
 For questions or permission requests, contact:
 - Abhay Srivastava — (GitHub: @abhay-0912)
-- Vinayak Sharma — (GitHub: )  
 
